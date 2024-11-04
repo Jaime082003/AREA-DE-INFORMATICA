@@ -1,6 +1,6 @@
 # Atividades de informática
 
-# Índicices 
+# Índice
 * Apresentação pessoal 
 * Atividade 1 fórmulas e dados abertos
 * Atividade 2 fórmulas dados abertos
