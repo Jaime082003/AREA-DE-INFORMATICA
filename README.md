@@ -1,6 +1,14 @@
 # Atividades de informática
 
 # Índicices 
+* Apresentação pessoal 
+* Atividade 1 fórmulas e dados abertos
+* Atividade 2 fórmulas dados abertos
+* atividade 1 power BI 
+* atividade 2 power BI
+* atividade 3 power BI
+* atividade 4 power BI
+
 
 # Atividade 1 dados abertos 
 
