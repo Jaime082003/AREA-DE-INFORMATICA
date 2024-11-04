@@ -9,6 +9,9 @@
 * atividade 3 power BI
 * atividade 4 power BI
 
+# apresentação pessoal
+
+![Captura de tela 2024-11-04 195146](https://github.com/user-attachments/assets/94f19aba-74f5-4614-ac9d-4a04a5189630)
 
 # Atividade 1 dados abertos 
 
