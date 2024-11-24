@@ -62,3 +62,8 @@
 ![Captura de tela 2024-10-31 205335](https://github.com/user-attachments/assets/f2fafb8e-4b0c-4bca-bffe-5f2a00efb1e3)
 
 ![Captura de tela 2024-10-31 205415](https://github.com/user-attachments/assets/76b35d80-2f67-4f4d-a6ab-93e9085f7879)
+
+# Power Apps
+
+![Screenshot 2024-11-24 20 40 20](https://github.com/user-attachments/assets/2b014c68-9da0-43ea-8bd6-4a74d621492c)
+
