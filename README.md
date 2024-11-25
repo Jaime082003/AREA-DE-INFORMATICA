@@ -8,6 +8,7 @@
 * atividade 2 power BI
 * atividade 3 power BI
 * atividade 4 power BI
+* Power Apps
 
 # apresentação pessoal
 
