@@ -9,6 +9,7 @@
 * atividade 3 power BI
 * atividade 4 power BI
 * Power Apps
+* dashboard da prova
 
 # apresentação pessoal
 
@@ -67,4 +68,7 @@
 # Power Apps
 
 ![Screenshot 2024-11-24 20 40 20](https://github.com/user-attachments/assets/2b014c68-9da0-43ea-8bd6-4a74d621492c)
+
+![Captura de tela 2024-11-28 205912](https://github.com/user-attachments/assets/78f56bca-e20e-4826-b493-3ee7a2c88f94)
+
 
